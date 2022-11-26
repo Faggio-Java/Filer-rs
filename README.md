@@ -3,9 +3,9 @@ Simple File Manager
 Controls <br>
 C = Copy <br>
 P = Paste <br>
-UP/Down/Left arrow keys = navigation <br>
 D = Delete <br>
 Q = Quit Program <br>
+UP/Down/Left/Right arrow keys = navigation <br>
 <br>
 Note: is in experimental state & isnt meant to be used for daily activities.
 <br>
