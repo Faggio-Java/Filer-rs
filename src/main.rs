@@ -210,7 +210,7 @@ fn run_app<B: Backend>(
                     KeyCode::Char('q') => return Ok(()),
                     KeyCode::Down => app.files.next(),
                     KeyCode::Up => app.files.previous(),
-                    KeyCode::Enter => app.enter(),
+                    KeyCode::Right => app.enter(),
                     KeyCode::Left => app.back(),
                     KeyCode::Char('d') => app.delete(),
                     KeyCode::Char('c') => app.copy(),
